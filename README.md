@@ -29,5 +29,6 @@ The most plausible outcome that we can draw from comparing these two summaries i
   * The total number of students at THS
   * The average math and reading scores at THS
   * The overall passing percentage at THS
+
 Overall, THS is still the number two performing school at this school district, and the removal of the THS 9th grader scores had little to no effect on the overall district summary. However, due to strict adherence to laws from the state this revised summary was still important to maintaining academic honesty. 
 
