@@ -14,7 +14,7 @@ The intent of this analysis to provide a clean and concise overview of test scor
 
 After filtering out the requested data for THS (Thomas High School) we see that the district results are largely the same. Here is a snapshot of our initial analysis:
 
-
+Resources/Initial_school_summary.PNG
 
 
 ## Summary
