@@ -14,11 +14,19 @@ The intent of this analysis to provide a clean and concise overview of test scor
 
 After filtering out the requested data for THS (Thomas High School) we see that the district results are largely the same. Here is a snapshot of our initial analysis:
 
-
 ![Initial_school_summary](https://user-images.githubusercontent.com/106921601/177205077-d59c59cd-fcb7-4318-a01f-ee5f779c8496.PNG)
+
+When we review the below revised school summary we see that there is less than a third of a percentage point drop between the overall passing percentage for THS.
 
 ![Revised_school_summary](https://user-images.githubusercontent.com/106921601/177205093-12678470-446d-4552-8bc1-f3dd3ba784df.PNG)
 
-
+In the above images we can see that by removing 9th grade THS students from this analysis yielded very little change to our overall school and district summaries. THS is still a top 5 school in the district after the changes were made.
 
 ## Summary
+
+The most plausible outcome that we can draw from comparing these two summaries is that by removing the 9th grade students from THS we mostly affect this 4 key metrics: 
+  * The total number of students
+  * The total number of students at THS
+  * The average math and reading scores at THS
+  * The overall passing percentage at THS
+
