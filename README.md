@@ -24,9 +24,10 @@ In the above images we can see that by removing 9th grade THS students from this
 
 ## Summary
 
-The most plausible outcome that we can draw from comparing these two summaries is that by removing the 9th grade students from THS we mostly affect this 4 key metrics: 
+The most plausible outcome that we can draw from comparing these two summaries is that by removing the 9th grade students from THS we mostly affect these 4 key metrics: 
   * The total number of students
   * The total number of students at THS
   * The average math and reading scores at THS
   * The overall passing percentage at THS
+Overall, THS is still the number two performing school at this school district, and the removal of the THS 9th grader scores had little to no effect on the overall district summary. However, due to strict adherence to laws from the state this revised summary was still important to maintaining academic honesty. 
 
